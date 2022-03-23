@@ -31,3 +31,6 @@ problem of mathematical logic’.
 Turing introduced Turing machines in the context of research into the foundations of mathematics. More particularly, he used these abstract devices to prove that there is no effective general method or procedure to solve, calculate or compute every instance of the Entscheidungs problem.
 
 A Turing machine then, or a computing machine as Turing called it, in Turing’s original definition is a machine capable of a finite set of configurations: *q<sub>1</sub>, ..., q<sub>n</sub>*
+
+It is supplied with a one-way infinite and one-dimensional tape divided into squares each capable of carrying exactly one symbol. At any moment, the machine is scanning the content of *one* square *r* which is either bank (*S<sub>0</sub>*) or contains a symbol *S<sub>1</sub>, ..., S<sub>m</sub>* with *S<sub>1</sub>* = 0 and *S<sub>2</sub>* = 1.
+
