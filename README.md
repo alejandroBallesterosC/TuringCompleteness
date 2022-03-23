@@ -35,3 +35,12 @@ A Turing machine then, or a computing machine as Turing called it, in Turing’s
 It is supplied with a one-way infinite and one-dimensional tape divided into squares each capable of carrying exactly one symbol. At any moment, the machine is scanning the content of square *r* which is either bank (*S<sub>0</sub>*) or contains a symbol *S<sub>1</sub>, ..., S<sub>m</sub>* 
 with *S<sub>1</sub>* = 0 and *S<sub>2</sub>* = 1.
 
+There are two important things to notice about the Turing machine setup. The first concerns the definition of the machine itself, namely that the machine’s tape is potentially infinite. This corresponds to an assumption that the memory of the machine is (potentially) infinite. The second concerns the definition of Turing computable, namely that a function will be Turing computable if there exists a set of instructions that will result in a Turing machine computing the function regardless of the amount of time it takes.
+
+If we moreover assume that a physical computer is a finite realization of the Turing machine, and so that the Turing machine functions as a good formal model for the computer, a result which shows that a function is not Turing computable is very strong, since it implies that no computer that we could ever build could carry out the computation.
+
+### The Universal Turing Machine
+The universal Turing machine which was constructed to prove the uncomputability of certain problems, is, roughly speaking, a Turing machine that is able to compute what any other Turing machine computes. Assuming that the Turing machine notion fully captures computability (and so that Turing’s thesis is valid), it is implied that anything which can be “computed”, can also be computed by that one universal machine. Conversely, any problem that is not computable by the universal machine is considered to be uncomputable.
+
+This is the rhetorical and theoretical power of the universal machine concept, viz. that one relatively simple formal device captures all “the possible processes which can be carried out in computing a number” (Turing 1936–7). 
+
