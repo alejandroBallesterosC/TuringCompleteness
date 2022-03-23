@@ -1,5 +1,4 @@
-# turing completeness
-exploring the idea of Turing Completeness
+# Exploring The Idea of Turing Completeness
 
 Entscheidungsproblem: The problem to decide for every statement in first-order logic whether or not it is derivable in that logic.
 
