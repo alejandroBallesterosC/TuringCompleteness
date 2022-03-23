@@ -7,14 +7,14 @@ Note that in its original form (Hilbert & Ackermann 1928), the problem was state
 
 The Entscheidungsproblem may be stated in the following three equivalent ways:
 
--(1) Find an algorithm to determine whether a given sentence of first order logic
+- (1) Find an algorithm to determine whether a given sentence of first order logic
 is valid, that is, true regardless of what speciic objects and relationships are
 being reasoned about.
 
--(2) Find an algorithm to determine whether a given sentence of first order logic
+- (2) Find an algorithm to determine whether a given sentence of first order logic
 is satisiable, that is, true for some speciic objects and relationships.
 
--(3) Find an algorithm to determine given some sentences of first order logic
+- (3) Find an algorithm to determine given some sentences of first order logic
 regarded as premises and another sentence, being a desired conclusion, whether
 that conclusion is provable from the premises using the rules of proof for first
 order logic.
