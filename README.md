@@ -9,7 +9,7 @@ Note that in its original form (Hilbert & Ackermann 1928), the problem was state
 may be stated in the following three equivalent ways:
 
 - (1) Find an algorithm to determine whether a given sentence of first order logic
-is valid, that is, true regardless of what speciic objects and relationships are
+is valid, that is, true regardless of what specific objects and relationships are
 being reasoned about.
 
 - (2) Find an algorithm to determine whether a given sentence of first order logic
