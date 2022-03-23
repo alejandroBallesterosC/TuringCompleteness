@@ -39,7 +39,7 @@ There are two important things to notice about the Turing machine setup. The fir
 
 If we moreover assume that a physical computer is a finite realization of the Turing machine, and so that the Turing machine functions as a good formal model for the computer, a result which shows that a function is not Turing computable is very strong, since it implies that no computer that we could ever build could carry out the computation.
 
-### The Universal Turing Machine
+## The Universal Turing Machine
 The universal Turing machine which was constructed to prove the uncomputability of certain problems, is, roughly speaking, a Turing machine that is able to compute what any other Turing machine computes. Assuming that the Turing machine notion fully captures computability (and so that Turing’s thesis is valid), it is implied that anything which can be “computed”, can also be computed by that one universal machine. Conversely, any problem that is not computable by the universal machine is considered to be uncomputable.
 
 This is the rhetorical and theoretical power of the universal machine concept, viz. that one relatively simple formal device captures all “the possible processes which can be carried out in computing a number” (Turing 1936–7). 
