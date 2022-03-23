@@ -25,3 +25,7 @@ see that an actual algorithm solving the Entscheidungsproblem would reduce all
 of mathematics, at least in principle, to mechanical calculation. Presumably it was
 this that led Hilbert to characterise the Entscheidungsproblem as ‘the fundamental
 problem of mathematical logic’.
+
+Turing introduced Turing machines in the context of research into the foundations of mathematics. More particularly, he used these abstract devices to prove that there is no effective general method or procedure to solve, calculate or compute every instance of the Entscheidungs problem.
+
+
