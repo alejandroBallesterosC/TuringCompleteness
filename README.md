@@ -44,3 +44,5 @@ The universal Turing machine which was constructed to prove the uncomputability 
 
 This is the rhetorical and theoretical power of the universal machine concept, viz. that one relatively simple formal device captures all “the possible processes which can be carried out in computing a number” (Turing 1936–7). 
 
+## Turing Completeness
+A programming language is said to be Turing complete or computationally universal if it can be used to simulate arbitrary Turing machines.
