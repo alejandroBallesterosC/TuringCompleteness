@@ -19,3 +19,9 @@ is satisiable, that is, true for some speciic objects and relationships.
 regarded as premises and another sentence, being a desired conclusion, whether
 that conclusion is provable from the premises using the rules of proof for first
 order logic.
+
+If we think of the premises as the axioms of some mathematical domain, we can
+see that an actual algorithm solving the Entscheidungsproblem would reduce all
+of mathematics, at least in principle, to mechanical calculation. Presumably it was
+this that led Hilbert to characterise the Entscheidungsproblem as ‘the fundamental
+problem of mathematical logic’.
